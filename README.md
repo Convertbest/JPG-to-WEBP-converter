@@ -17,7 +17,7 @@ Convert your JPG images to the efficient WEBP format with our free online tool. 
 To convert your JPG files to WEBP, simply follow these steps:
 1. Visit [Convert.best JPG to WEBP](https://convert.best/jpgtowebp.html).
 2. Upload your JPG file.
-3. Use the available settings to adjust the compression ratio and preview the image quality.
+3. Select the desired quality and preview the image to ensure it meets your specifications before conversion.
 4. Click 'Convert' to initiate the conversion.
 5. Download your new WEBP file once the conversion is complete.
 
